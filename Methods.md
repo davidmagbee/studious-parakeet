@@ -32,6 +32,6 @@ Output = ['Welcome','To','The','Jungle']
 </details>
 
 ###### Coming Soon...
-There is much more to this repository to come, so bookmark it and keep an eye out for new additions. 
-
-If you'd like to make contributions to this repository, please contact the repository owner directly. 
+- There is much more to this repository to come, so bookmark it and keep an eye out for new additions. 
+- If you'd like to make contributions to this repository, please contact the repository owner directly.
+- For requested content subjects, please submit a pull request on the repository. 
