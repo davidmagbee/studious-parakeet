@@ -16,6 +16,10 @@ _Note: Networking with other developers is a great way to grow and find new reso
 - [Methods](/assets/Methods.md)
 - [Sample Algos](/assets/SampleAlgos.md)
 - [JavaScript Reference](/assets/JavaScript.md)
+
+### Additional Resources
+- [Devoxify | The definitive guide to java backend developer career path](https://www.devoxify.com/posts/the-definitive-guide-to-java-backend-developer-career-path/)
+- [A collection of Algorithms & Solutions](https://docs.google.com/spreadsheets/d/1y7ywS3wAkt5Y1dimSWjNfKPJ-QSB2IlpzpS1huAVJL4/edit#gid=818859732)
 ###### Coming Soon...
 - There is much more to this repository to come, so bookmark it and keep an eye out for new additions. 
 - If you'd like to make contributions to this repository, please contact the repository owner directly.
