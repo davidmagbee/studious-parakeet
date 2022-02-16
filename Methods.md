@@ -11,6 +11,7 @@ Split will take a string and split the string into individual indexes based on a
 ###### Examples:
 <details>
   <summary><strong>Python</strong></summary> 
+
 ```
 text = "ABCD"
 x = text.split("")
@@ -22,6 +23,7 @@ Output = ['A','B','C','D']
 
 <details>
   <summary><strong>JavaScript</strong></summary> 
+
 ```
 let text = "Welcome To The Jungle"
 let x = text.split(" ")
