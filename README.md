@@ -7,6 +7,8 @@ If you're reading this, then you're likely looking for a repository of links and
 
 This content will be built up more as time goes on, and you can help with the growth of this guide. If you'd like to add anything, please let reach out to me directly or submit a pull request with your content requests. 
 
+_Note: Networking with other developers is a great way to grow and find new resources. [DevNursery](https://join.slack.com/t/amwebdev/shared_invite/zt-9xlfgp6e-bGIv1zCc1x4Pl1Irm5jhrA) has a ton of great developers who are also eager to grow and help each other._
+
 ### Sections 
 - [Whiteboarding Tips](/assets/WhiteboardingTips.md) 
 - [Brain Teasers](/assets/BrainTeasers.md)

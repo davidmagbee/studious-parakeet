@@ -159,4 +159,4 @@ newDog.myMethod();
 - [Javascript DOM Manipulation](https://www.youtube.com/watch?v=CBzc-o6G9wg&list=PLY6oTPmKnKbbZvUyySSQYfnaClxfo4_iE)
 
 ## Resources and Attributions
-- Thanks to [Alex Merced](https://meet.alexmercedcoder.com/) (GA SEI Lead Instructor) for developing this JavaScript reference guide. 
+- Thanks to [Alex Merced](https://meet.alexmercedcoder.com/) (A former GA SEI Lead Instructor) for developing this JavaScript reference guide. 
