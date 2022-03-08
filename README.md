@@ -12,7 +12,7 @@ _Note: Networking with other developers is a great way to grow and find new reso
 ### Sections 
 - [Whiteboarding Tips](/assets/WhiteboardingTips.md) 
 - [Brain Teasers](/assets/BrainTeasers.md)
-- [Code Challenges](C/assets/odeChallenges.md)  
+- [Code Challenges](/assets/CodeChallenges.md)  
 - [Methods](/assets/Methods.md)
 - [Sample Algos](/assets/SampleAlgos.md)
 - [JavaScript Reference](/assets/JavaScript.md)
