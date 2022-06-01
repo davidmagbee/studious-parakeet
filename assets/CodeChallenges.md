@@ -1,6 +1,8 @@
 # Code Challenges
 
 ## Sample Code Challenges
+- [ ] Complete the [turnRobot](turnRobot.js) prompt.   _If you'd like a code review, please submit an issue ticket with your completed code. Code reviews will only be provided for complete submissions (pseudocode and functional code)._
+
 - [ ] Refactor this [code](https://repl.it/@ZakkMan/toRoman) to make it more readable.
 <details>
   <summary><strong>Potential Answers</strong></summary> 
